@@ -1,0 +1,31 @@
+ Wolumin w stacji C nie ma etykiety.
+ Numer seryjny woluminu: 6C62-815F
+
+ Katalog: C:\Users\Quentin
+
+2013-04-09  19:08    <DIR>          .
+2013-04-09  19:08    <DIR>          ..
+2013-03-28  14:20    <DIR>          Application Data
+2013-01-19  19:09    <DIR>          Contacts
+2013-03-29  13:08    <DIR>          Desktop
+2013-03-29  12:07    <DIR>          Documents
+2013-01-20  16:28    <DIR>          Downloads
+2013-04-09  19:08    <DIR>          ..
+2013-03-28  18:28    <DIR>          Favorites
+2013-01-19  19:09    <DIR>          Links
+2013-01-19  19:09    <DIR>          Music
+2013-01-19  19:09    <DIR>          Pictures
+2013-04-09  19:08                 0 plik.txt
+2013-04-09  19:08                 56 45 plik.txt
+2013-04-09  19:08                 5 5 8 plik.txt
+2013-04-09  19:08                 1 1 1 1 plik.txt
+2013-01-19  19:09    <DIR>          Saved Games
+2013-01-19  19:43    <DIR>          Searches
+2013-01-19  19:09    <DIR>          Videos
+               1 plik(¢w)                  0 bajt¢w
+              14 katalog(¢w)  10ÿ690ÿ101ÿ248 bajt¢w wolnych
+              
+              
+2013-04-09  19:08    <DIR>          ..
+2013-04-09  19:08    <DIR>          ..
+2013-04-09  19:08    <DIR>          ..
